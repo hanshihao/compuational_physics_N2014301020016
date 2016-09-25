@@ -6,4 +6,4 @@
 ####[作业链接1](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/graph%20heart.py)  已经在点阵上划出心形图案####
 ####[作业链接2](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/graph%20rotation.py) 用for语句试图一帧一帧显示图像，每一帧为图像的不同角度，但是并未达到旋转的效果，又试图通过矩阵变换的方法旋转，但难度实在太大####
 
-###当然有更多的方法解决这个问题，除了画的东西，方法上也希望各位能脑洞大开！   作业链接###
+###当然有更多的方法解决这个问题，除了画的东西，方法上也希望各位能脑洞大开！   [火箭爆炸图](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/rocket%20explotion.py)         致谢：14级物基一班浦臻航###
