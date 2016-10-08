@@ -1,6 +1,6 @@
 ###[第二次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise2.md)###
 ###[第三次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise3.md)###
-###第四次作业###
+###[第四次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise4.md)###
 ###第五次作业###
 ###第六次作业###
 ###第七次作业###
