@@ -10,7 +10,7 @@
 #####[查看源代码](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/chap2-8.py)#####
 #####模拟图如下：
 ![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161017092625.png)#####
+#####当不考虑空气阻力等其他因素，只考虑重力加速度变化时：g=GM/(R+Y)^2#####
 ----------
-####结论####
-########## 
+####结论:	重力对炮弹轨迹的影响不大####
 
