@@ -4,7 +4,7 @@
 ###[第五次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise5.md)###
 ###[第六次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise6.md)###
 ###[第七次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise7.md)###
-###第八次作业###
+###[第八次作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Exercise8.md)###
 ###第九次作业###
 ###第十次作业###
 ###第十一次作业###
