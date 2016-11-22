@@ -7,5 +7,8 @@
 ####1963年，爱德华·洛伦茨为大气对流开发了一个简化的数学模型。该模型是一个由三个常微分方程组成的系统，现在称为洛伦兹方程：####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161120224104.png)#####
 ####这里x，y和z构成系统状态，t是时间，并且是系统参数。 洛伦兹方程也出现在用于激光器，发电机，热虹吸管，无刷直流电动机，电路，化学反应和正向渗透的简化模型中。####
+####正文####
+####![内边界是圆，中心在原点](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161122120210.png)####
+####![内边界是圆，中心在（0.2 0.1）](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161122121023.png)####
 
 
