@@ -7,3 +7,15 @@
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/W020160123359859569771.gif)#####
 
 ####正文####
+####当初速度选取Vx=0，Vy=2π时，β的改变对轨道没有影响####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/%CE%B2%3D2.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.1.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.5.png)#####
+####接下来，看y方向初速度改变为2.2，不同β值之间的区别####
+#####![β=2时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/v%3D2.2%202.0.png)#####
+#####![β=2.05时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.05.png)#####
+#####![β=2.1时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/%E5%BE%AE%E6%89%B02.1.png)#####
+#####![β=2.2时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.2.png)#####
+#####![β=2.5时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/%E6%94%B9%E9%80%9F%E5%90%8E2.5.png)#####
+#####![β=2.6时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.6.png)#####
+#####![β=2.7时](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/2.7.png)#####
