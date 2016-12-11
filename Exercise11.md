@@ -13,3 +13,13 @@
 #####第三类是数值方法，这是直接根据微分方程的计算方法得出天体在某些时刻的具体位置和速度。#####
 #####这三类方法各有利弊，对新积分的探索和各类方法的改进是研究三体问题中很重要的课题。#####
 ####正文####
+#####改变vy0以改变偏心率，绘制不同vy0时的图像，[查看源代码](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/orbits2.py)#####
+#####轨道为圆时，即vy0=2π#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211102055.png)#####
+####以下分别为vy0=3，4，5，6，7，8时的图像####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202233.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202424.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202457.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202520.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202542.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161211202603.png)#####
