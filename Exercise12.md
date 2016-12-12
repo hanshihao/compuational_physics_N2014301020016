@@ -11,3 +11,14 @@
 ######![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/dccb6d025c64985dcd0a0c9b71ef1bb3.jpg)######
 #####在这个问题中，我们将研究考虑边缘效应的平行板电容器的电场。#####
 #####正文#####
+#####下图为Figure5.6的体系中的电力线#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161212184541.png)#####
+#####下图为Figure5.6的体系中的等势线#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161212184601.png)#####
+#####将等势线表现在3D图像中#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161212184613.png)#####、
+####结论####
+#####上图直观地表现出考虑边缘条件的电容器系统的电场线及等势线#####
+#####致谢#####
+#####matplotlib教程http://matplotlib.org/examples/mplot3d/surface3d_demo.html#####
+#####物基一班余剑桥同学#####
