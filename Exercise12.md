@@ -18,7 +18,7 @@
 #####将等势线表现在3D图像中#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161212184613.png)#####、
 ####结论####
-#####上图直观地表现出考虑边缘条件的电容器系统的电场线及等势线#####
+#####上图直观地表现出考虑边缘条件的电容器系统的电场线及等势线，[查看源代码](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/field.py)#####
 #####致谢#####
 #####matplotlib教程http://matplotlib.org/examples/mplot3d/surface3d_demo.html#####
 #####物基一班余剑桥同学#####
