@@ -29,3 +29,4 @@
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.3.png)#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.5.png)#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.7.png)#####
+#####[源代码1](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/wave.py)  ![源代码2](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/wave1.py)#####
