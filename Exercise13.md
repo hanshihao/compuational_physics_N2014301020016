@@ -20,3 +20,12 @@
 #####则有：![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219105735.png)#####
 #####令![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219111929.png)，则有：#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219112132.png)#####
+#####基本波动图像#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219175310.png)#####
+#####图像在边界处发生半波损#####
+#####波的频谱#####
+#####改变x的值，分别为0.05， 0.3， 0.5， 0.7#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.05.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.3.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.5.png)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/0.7.png)#####
