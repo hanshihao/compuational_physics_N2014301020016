@@ -10,3 +10,13 @@
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/%E4%B8%8B%E8%BD%BD.jpg)#####
 #####驻波 （standing wave） 频率相同、传输方向相反的两种电波，沿传输线形成的一种分布状态。其中的一个波一般是另一个波的反射波。在两者电压（或电流）相加的点出现波腹，在两者电压（或电流）相减的点形成波节。在波形上，波节和波腹的位置始终是不变的，给人“驻立不动的印象，但它的瞬时值是随时间而改变的。如果这两种波的幅值相等，则波节的幅值为零。入射波（推进波）与反射波相互干扰而形成的波形不再推进（仅波腹上、下振动，波节不移动）的波浪，称驻波。驻波多发生在海岸陡壁或直立式水工建筑物前面。紧靠陡壁附近的海水面随时间虽作周期性升降，海水呈往复流动，但并不向前传播，水面基本上是水平的，这就是由于受岸壁的限制使入射波与反射波相互干扰而形成的。波面随时间作周期性的升降，每隔偶数个半个波长就有一个波面升降幅度为最大的断面，称为波腹；当波面升降的幅度为0时的断面，称为波节。相邻两波节间的水平距离仍为半个波长，因此驻波的波面包含一系列的波腹和波节，腹节相间，波腹处的波面的高低虽有周期性变化，但此断面的水平位置是固定的，波节的位置也是固定的。这与进行波的波峰、波谷沿水平方向移动的现象正好相反，驻波的形状不传播，故名驻波。当波面处于最高和最低位置时，质点的水平速度为零，波面的升降速度也为零；当波面处于水平位置时，流速的绝对值最大，波面的升降也最快，这是驻波运动独有的特性。#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/bf096b63f6246b60cf120206ebf81a4c510fa2a0.jpg)#####
+#####本问题对一端可自由移动而另一端固定的弦上进行波的频谱分析#####
+####正文####
+#####波动运动的方程是：![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219103524.png)#####
+#####用微元法对波的一段微元进行分析#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/P61219-104019.jpg)#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219104606.png)#####
+#####取近似：![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219104935.png)#####
+#####则有：![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219105735.png)#####
+#####令![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219111929.png)，则有：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20161219112132.png)#####
