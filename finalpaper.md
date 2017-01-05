@@ -1,4 +1,9 @@
-##                **光栅衍射光强分布的研究**               ##
+##**光栅衍射光强分布的研究**##
+
+
+----------
+
+
 #####**摘要：** 衍射和干涉是各种波动所特有的现象，波动能绕过障碍物传播。水波、声波、无线电波的波长较长，在日常生活中可以明显地觉察到这类现象。光波的波长很短，只有当障碍物很小时才能观察到。历史上，正是通过对光的干涉和衍射现象的研究而认识到光具有波动性。近代通过电子、中子等微观粒子的衍射实验，证明了微观粒子的波动性。 因此，研究光波的衍射也就是研究光波的传播规律，一切涉及光的传播问题中，衍射现象均存在并且有着重要的实际意义。本文着眼于用编程模拟的方式探究光栅衍射的光强分布。#####
 #####**关键词：** 光强分布   光栅衍射   傅里叶变换法   计算机模拟#####
 #####**Abstract：** Diffraction and interference are peculiar to all kinds of fluctuations, and fluctuations can bypass the propagation of obstacles. Water waves, sound waves, radio waves of a longer wavelength, in daily life can be clearly aware of this phenomenon. The wavelength of light is very short and can only be observed when the obstruction is small. Historically, it is through the interference of light and diffraction phenomena of the study and realize the light with volatility. In recent years, the microscopic particle's fluctuation is proved by the experiment of electron and neutron. Therefore, the study of light diffraction is to study the propagation of light waves, all involving the issue of light propagation, diffraction phenomena exist and has important practical significance. This paper focuses on exploring the light intensity distribution of grating diffraction by means of programming simulation.#####
