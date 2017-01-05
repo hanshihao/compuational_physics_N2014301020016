@@ -26,3 +26,16 @@
 #####将菲涅尔-基尔霍夫积分公式进一步简化为：#####
 #####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105153017.png)#####
 #####只要是在像面上接收，傍轴条件下就可以获得夫琅禾费衍射场。夫琅禾费衍射是平面波衍射，即光源和接受屏距离衍射屏均为无限远的情形。#####
+#####**2.2 傅里叶变换法计算光强分布**#####
+#####假设单位振幅的平面波正入射到缝宽为 a 的单屏上，缝函数为：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105154034.png)#####
+#####在接收面上的空间坐标x与衍射角θ的关系是sinθ=x/z，采用角坐标θ代替x，则有：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105154042.png)#####
+#####作如下代替，其中α表示狭缝的边缘与中心的光波在P点产生的相位差。#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105154058.png)#####
+#####振幅的模平方即为光强：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105154111.png)#####
+#####在接受屏中心P_0处的光强为：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105154120.png)#####
+#####所以，对于多缝的光栅衍射来说，光栅衍射的光强分布函数为：#####
+#####![enter image description here](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/QQ%E6%88%AA%E5%9B%BE20170105155418.png)#####
