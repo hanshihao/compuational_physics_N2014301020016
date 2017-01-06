@@ -1,6 +1,7 @@
 ##计算物理课程作业列表##
 ----------
 ###[查看全部作业](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/Homework.md)###
+###[期末论文](https://github.com/hanshihao/compuational_physics_N2014301020016/blob/master/finalpaper.md)###
 ----------
 ###第一次作业###
 ----------
